@@ -1,6 +1,3 @@
 <?php
-// Heading
-$_['heading_title'] = 'The page you requested cannot be found!';
-
-// Text
-$_['text_error']    = 'The page you requested cannot be found.';
+$_['heading_title'] 	=  '¡La página solicitada no pudo ser encontrada!';
+$_['text_error'] 	=  'La página solicitada no pudo ser encontrada.';

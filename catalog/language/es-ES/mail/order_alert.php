@@ -1,10 +1,9 @@
 <?php
-// Text
-$_['text_subject']      = '%s - Order %s';
-$_['text_received']     = 'You have received an order.';
-$_['text_order_id']     = 'Order ID:';
-$_['text_date_added']   = 'Date Added:';
-$_['text_order_status'] = 'Order Status:';
-$_['text_product']      = 'Products';
-$_['text_total']        = 'Totals';
-$_['text_comment']      = 'The comments for your order are:';
+$_['text_subject'] 	=  ' %s - Orden %s';
+$_['text_received'] 	=  'Ha recibido una orden.';
+$_['text_order_id'] 	=  'Solicitar ID:';
+$_['text_date_added'] 	=  'Fecha Agregada:';
+$_['text_order_status'] 	=  'Estado del pedido:';
+$_['text_product'] 	=  'Productos';
+$_['text_total'] 	=  'Totales';
+$_['text_comment'] 	=  'Los comentarios para su pedido son:';

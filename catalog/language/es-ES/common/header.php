@@ -1,16 +1,15 @@
 <?php
-// Text
-$_['text_home']          = 'Home';
-$_['text_wishlist']      = 'Wish List (%s)';
-$_['text_shopping_cart'] = 'Shopping Cart';
-$_['text_category']      = 'Categories';
-$_['text_account']       = 'My Account';
-$_['text_register']      = 'Register';
-$_['text_login']         = 'Login';
-$_['text_order']         = 'Order History';
-$_['text_transaction']   = 'Transactions';
-$_['text_download']      = 'Downloads';
-$_['text_logout']        = 'Logout';
-$_['text_checkout']      = 'Checkout';
-$_['text_search']        = 'Search';
-$_['text_all']           = 'Show All';
+$_['text_home'] 	=  'Casa';
+$_['text_wishlist'] 	=  'Listas de deseos)';
+$_['text_shopping_cart'] 	=  'Carrito de compras';
+$_['text_category'] 	=  'Categorías';
+$_['text_account'] 	=  'Mi cuenta';
+$_['text_register'] 	=  'Registro';
+$_['text_login'] 	=  'Iniciar sesión';
+$_['text_order'] 	=  'Historial de pedidos';
+$_['text_transaction'] 	=  'Actas';
+$_['text_download'] 	=  'Descargas';
+$_['text_logout'] 	=  'Cerrar sesión';
+$_['text_checkout'] 	=  'Revisa';
+$_['text_search'] 	=  'Buscar';
+$_['text_all'] 	=  'Mostrar todo';

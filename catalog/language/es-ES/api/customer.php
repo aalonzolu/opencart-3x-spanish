@@ -1,12 +1,9 @@
 <?php
-// Text
-$_['text_success']       = 'You have successfully modified customers';
-
-// Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_customer']     = 'You must select a customer!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+$_['text_success'] 	=  'Ha modificado correctamente clientes';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para acceder a la API!';
+$_['error_customer'] 	=  '¡Debe seleccionar un cliente!';
+$_['error_firstname'] 	=  '¡El nombre completo debe tener entre 1 y 32 caracteres!';
+$_['error_lastname'] 	=  '¡El apellido debe tener entre 1 y 32 caracteres!';
+$_['error_email'] 	=  '¡La dirección de correo electrónico no parece válida!';
+$_['error_telephone'] 	=  '¡El teléfono debe tener entre 3 y 32 caracteres!';
+$_['error_custom_field'] 	=  'Se requiere %s!';

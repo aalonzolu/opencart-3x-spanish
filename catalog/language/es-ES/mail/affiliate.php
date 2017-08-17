@@ -1,17 +1,16 @@
 <?php
-// Text
-$_['text_subject']        = '%s - Affiliate Program';
-$_['text_welcome']        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_service']        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']         = 'Thanks,';
-$_['text_new_affiliate']  = 'New Affiliate';
-$_['text_signup']         = 'A new affiliate has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
-$_['text_company']        = 'Company:';
-$_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_subject'] 	=  ' %s - Programa de afiliados';
+$_['text_welcome'] 	=  '¡Gracias por unirse al Programa de Afiliados %s!';
+$_['text_login'] 	=  'Su cuenta ya se ha creado y puede iniciar sesión utilizando su dirección de correo electrónico y contraseña visitando nuestro sitio web o en la siguiente dirección URL:';
+$_['text_approval'] 	=  'Su cuenta debe ser aprobada antes de iniciar sesión. Una vez aprobado, puede iniciar sesión utilizando su dirección de correo electrónico y contraseña visitando nuestro sitio web o en la siguiente dirección URL:';
+$_['text_service'] 	=  'Al iniciar sesión, podrá generar códigos de seguimiento, realizar un seguimiento de los pagos de comisiones y editar la información de su cuenta.';
+$_['text_thanks'] 	=  'Gracias,';
+$_['text_new_affiliate'] 	=  'Nuevo afiliado';
+$_['text_signup'] 	=  'Un nuevo afiliado se ha inscrito:';
+$_['text_website'] 	=  'Sitio Web:';
+$_['text_customer_group'] 	=  'Grupo de clientes:';
+$_['text_firstname'] 	=  'Nombre de pila:';
+$_['text_lastname'] 	=  'Apellido:';
+$_['text_company'] 	=  'Empresa:';
+$_['text_email'] 	=  'Correo electrónico:';
+$_['text_telephone'] 	=  'Teléfono:';

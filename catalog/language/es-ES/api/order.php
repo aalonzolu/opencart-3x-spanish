@@ -1,16 +1,13 @@
 <?php
-// Text
-$_['text_success']           = 'Success: You have modified orders!';
-
-// Error
-$_['error_permission']       = 'Warning: You do not have permission to access the API!';
-$_['error_customer']         = 'Warning: Customer details needs to be set!';
-$_['error_payment_address']  = 'Warning: Payment address required!';
-$_['error_payment_method']   = 'Warning: Payment method required!';
-$_['error_no_payment']       = 'Warning: No Payment options are available!';
-$_['error_shipping_address'] = 'Warning: Shipping address required!';
-$_['error_shipping_method']  = 'Warning: Shipping method required!';
-$_['error_no_shipping']      = 'Warning: No Shipping options are available!';
-$_['error_stock']            = 'Warning: Products marked with *** are not available in the desired quantity or not in stock!';
-$_['error_minimum']          = 'Warning: Minimum order amount for %s is %s!';
-$_['error_not_found']        = 'Warning: Order could not be found!';
+$_['text_success'] 	=  'Éxito: ¡Has modificado órdenes!';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para acceder a la API!';
+$_['error_customer'] 	=  'Advertencia: ¡Los detalles del cliente deben ser ajustados!';
+$_['error_payment_address'] 	=  'Advertencia: Dirección de pago requerida!';
+$_['error_payment_method'] 	=  'Advertencia: ¡Se requiere el método de pago!';
+$_['error_no_payment'] 	=  'Advertencia: No hay opciones de pago disponibles!';
+$_['error_shipping_address'] 	=  'Advertencia: Se requiere la dirección de envío!';
+$_['error_shipping_method'] 	=  'Advertencia: Se requiere el método de envío!';
+$_['error_no_shipping'] 	=  'Advertencia: No Opciones de envío están disponibles!';
+$_['error_stock'] 	=  'Advertencia: ¡Los productos marcados con *** no están disponibles en la cantidad deseada o no están en stock!';
+$_['error_minimum'] 	=  'Advertencia: ¡La cantidad mínima de pedido para %s es %s!';
+$_['error_not_found'] 	=  'Advertencia: ¡No se pudo encontrar el pedido!';

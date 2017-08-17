@@ -1,9 +1,6 @@
 <?php
-// Text
-$_['text_success']     = 'Success: Your reward points discount has been applied!';
-
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to access the API!';
-$_['error_reward']     = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']     = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum']    = 'Warning: The maximum number of points that can be applied is %s!';
+$_['text_success'] 	=  'Éxito: ¡Se ha aplicado el descuento de puntos de recompensa!';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para acceder a la API!';
+$_['error_reward'] 	=  'Advertencia: ¡Por favor ingrese la cantidad de puntos de recompensa para usar!';
+$_['error_points'] 	=  'Advertencia: ¡No tienes puntos de recompensa %s!';
+$_['error_maximum'] 	=  'Advertencia: ¡El máximo número de puntos que se pueden aplicar es %s!';

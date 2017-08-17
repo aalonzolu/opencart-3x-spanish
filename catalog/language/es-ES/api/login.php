@@ -1,7 +1,4 @@
 <?php
-// Text
-$_['text_success'] = 'Success: API session successfully started!';
-
-// Error
-$_['error_key']    = 'Warning: Incorrect API Key!';
-$_['error_ip']     = 'Warning: Your IP %s is not allowed to access this API!';
+$_['text_success'] 	=  'Éxito: ¡La sesión API se inició correctamente!';
+$_['error_key'] 	=  'Advertencia: ¡Clave API incorrecta!';
+$_['error_ip'] 	=  'Advertencia: ¡Tu IP %s no está autorizado a acceder a esta API!';

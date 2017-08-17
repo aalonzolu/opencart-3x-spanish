@@ -1,22 +1,15 @@
 <?php
-// Heading
-$_['heading_title']                 = 'Affiliate Program';
-
-// Text
-$_['text_account']                  = 'Account';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Forgotten Password';
-
-// Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
-$_['entry_password']                = 'Password';
-
-// Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['heading_title'] 	=  'Programa de afiliación';
+$_['text_account'] 	=  'Cuenta';
+$_['text_login'] 	=  'Iniciar sesión';
+$_['text_description'] 	=  '<p> El programa de afiliados de %s es gratis y permite a los miembros ganar ingresos al colocar un enlace a los enlaces en su sitio web que anuncian los productos específicos en él. Cualquier venta hecha a los clientes que han hecho clic en esos enlaces ganará la comisión del afiliado. La tasa de comisión estándar es actualmente %s. </p> <p> Para obtener más información, visite nuestra página de preguntas frecuentes o consulte nuestros términos de afiliación & amp; Condiciones. </p>';
+$_['text_new_affiliate'] 	=  'Nuevo afiliado';
+$_['text_register_account'] 	=  '<p> Actualmente no soy afiliado. </p> <p> Haga clic en Continuar para crear una nueva cuenta de afiliado. Tenga en cuenta que no está conectado de ninguna manera con su cuenta de cliente. </p>';
+$_['text_returning_affiliate'] 	=  'Registro de afiliados';
+$_['text_i_am_returning_affiliate'] 	=  'Soy un afiliado de regreso.';
+$_['text_forgotten'] 	=  'Contraseña olvidada';
+$_['entry_email'] 	=  'E-Mail del afiliado';
+$_['entry_password'] 	=  'Contraseña';
+$_['error_login'] 	=  'Advertencia: No coincide con la dirección de correo electrónico y / o la contraseña.';
+$_['error_attempts'] 	=  'Advertencia: su cuenta ha excedido el número permitido de intentos de inicio de sesión. Inténtalo de nuevo en 1 hora.';
+$_['error_approved'] 	=  'Advertencia: su cuenta requiere la aprobación antes de iniciar sesión.';
