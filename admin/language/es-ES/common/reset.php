@@ -1,15 +1,8 @@
 <?php
-// Heading
-$_['heading_title']  = 'Reset your password';
-
-// Text
-$_['text_password']  = 'Enter the new password you wish to use.';
-$_['text_success']   = 'Success: Your password has been successfully updated.';
-
-// Entry
-$_['entry_password'] = 'Password';
-$_['entry_confirm']  = 'Confirm';
-
-// Error
-$_['error_password'] = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']  = 'Password and password confirmation do not match!';
+$_['heading_title'] 	=  'Restablecer su contraseña';
+$_['text_password'] 	=  'Introduzca la nueva contraseña que desea utilizar.';
+$_['text_success'] 	=  'Éxito: su contraseña se ha actualizado correctamente.';
+$_['entry_password'] 	=  'Contraseña';
+$_['entry_confirm'] 	=  'Confirmar';
+$_['error_password'] 	=  '¡La contraseña debe tener entre 4 y 20 caracteres!';
+$_['error_confirm'] 	=  'Confirmación de contraseña y contraseña no coinciden!';

@@ -1,23 +1,16 @@
 <?php
-// Heading
-$_['heading_title']    = 'Image Manager';
-
-// Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_directory']   = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
-
-// Entry
-$_['entry_search']     = 'Search..';
-$_['entry_folder']     = 'Folder Name';
-
-// Error
-$_['error_permission'] = 'Warning: Permission Denied!';
-$_['error_filename']   = 'Warning: Filename must be between 3 and 255!';
-$_['error_folder']     = 'Warning: Folder name must be between 3 and 255!';
-$_['error_exists']     = 'Warning: A file or directory with the same name already exists!';
-$_['error_directory']  = 'Warning: Directory does not exist!';
-$_['error_filesize']   = 'Warning: Incorrect file size!';
-$_['error_filetype']   = 'Warning: Incorrect file type!';
-$_['error_upload']     = 'Warning: File could not be uploaded for an unknown reason!';
-$_['error_delete']     = 'Warning: You can not delete this directory!';
+$_['heading_title'] 	=  'Administrador de imágenes';
+$_['text_uploaded'] 	=  'Éxito: ¡Su archivo ha sido cargado!';
+$_['text_directory'] 	=  'Éxito: ¡Directorio creado!';
+$_['text_delete'] 	=  'Éxito: ¡Su archivo o directorio ha sido eliminado!';
+$_['entry_search'] 	=  'Buscar..';
+$_['entry_folder'] 	=  'Nombre de la carpeta';
+$_['error_permission'] 	=  'Advertencia: Permiso denegado!';
+$_['error_filename'] 	=  'Advertencia: El nombre de archivo debe estar entre 3 y 255!';
+$_['error_folder'] 	=  'Advertencia: El nombre de la carpeta debe estar entre 3 y 255!';
+$_['error_exists'] 	=  'Advertencia: ¡Ya existe un archivo o directorio con el mismo nombre!';
+$_['error_directory'] 	=  'Advertencia: ¡El directorio no existe!';
+$_['error_filesize'] 	=  'Advertencia: Tamaño de archivo incorrecto!';
+$_['error_filetype'] 	=  'Advertencia: ¡Tipo de archivo incorrecto!';
+$_['error_upload'] 	=  'Advertencia: ¡El archivo no pudo ser cargado por una razón desconocida!';
+$_['error_delete'] 	=  'Advertencia: ¡No puede eliminar este directorio!';

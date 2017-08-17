@@ -1,36 +1,27 @@
 <?php
-// Heading
-$_['heading_title']       = 'Layouts';
-
-// Text
-$_['text_success']        = 'Success: You have modified layouts!';
-$_['text_list']           = 'Layout List';
-$_['text_add']            = 'Add Layout';
-$_['text_edit']           = 'Edit Layout';
-$_['text_remove']         = 'Remove';
-$_['text_route']          = 'Choose the store and routes to be used with this layout';
-$_['text_module']         = 'Choose the position of the modules';
-$_['text_default']        = 'Default';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
-
-// Column
-$_['column_name']         = 'Layout Name';
-$_['column_action']       = 'Action';
-
-// Entry
-$_['entry_name']          = 'Layout Name';
-$_['entry_store']         = 'Store';
-$_['entry_route']         = 'Route';
-$_['entry_module']        = 'Module';
-
-// Error
-$_['error_permission']    = 'Warning: You do not have permission to modify layouts!';
-$_['error_name']          = 'Layout Name must be between 3 and 64 characters!';
-$_['error_default']       = 'Warning: This layout cannot be deleted as it is currently assigned as the default store layout!';
-$_['error_store']         = 'Warning: This layout cannot be deleted as it is currently assigned to %s stores!';
-$_['error_product']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';
-$_['error_category']      = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
-$_['error_information']   = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
+$_['heading_title'] 	=  'Layouts';
+$_['text_success'] 	=  'Éxito: ¡Has modificado los diseños!';
+$_['text_list'] 	=  'Lista de diseño';
+$_['text_add'] 	=  'Añadir diseño';
+$_['text_edit'] 	=  'Editar diseño';
+$_['text_remove'] 	=  'retirar';
+$_['text_route'] 	=  'Elija la tienda y las rutas que se utilizarán con este diseño';
+$_['text_module'] 	=  'Elegir la posición de los módulos';
+$_['text_default'] 	=  'Defecto';
+$_['text_content_top'] 	=  'Contenido Arriba';
+$_['text_content_bottom'] 	=  'Contenido inferior';
+$_['text_column_left'] 	=  'Columna izquierda';
+$_['text_column_right'] 	=  'Columna Derecha';
+$_['column_name'] 	=  'Nombre del diseño';
+$_['column_action'] 	=  'Acción';
+$_['entry_name'] 	=  'Nombre del diseño';
+$_['entry_store'] 	=  'Almacenar';
+$_['entry_route'] 	=  'Ruta';
+$_['entry_module'] 	=  'Módulo';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar diseños!';
+$_['error_name'] 	=  '¡El nombre del diseño debe tener entre 3 y 64 caracteres!';
+$_['error_default'] 	=  'Advertencia: Este diseño no se puede eliminar, ya que actualmente está asignado como el diseño de almacén predeterminado!';
+$_['error_store'] 	=  'Advertencia: ¡Este diseño no se puede eliminar ya que está asignado actualmente a %s stores!';
+$_['error_product'] 	=  'Advertencia: ¡Este diseño no se puede eliminar ya que está asignado actualmente a %s products!';
+$_['error_category'] 	=  'Advertencia: ¡Este diseño no se puede eliminar ya que está asignado actualmente a las categorías %s!';
+$_['error_information'] 	=  'Advertencia: ¡Este diseño no puede eliminarse ya que está asignado actualmente a %s páginas de información!';

@@ -1,6 +1,3 @@
 <?php
-// Heading
-$_['heading_title'] = 'Dashboard';
-
-// Error
-$_['error_install'] = 'Warning: Install folder still exists and should be deleted for security reasons!';
+$_['heading_title'] 	=  'Tablero';
+$_['error_install'] 	=  'Advertencia: La carpeta de instalación todavía existe y debe eliminarse por razones de seguridad.';

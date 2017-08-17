@@ -1,42 +1,33 @@
 <?php
-// Heading
-$_['heading_title']         = 'Recurring Profiles';
-
-// Text
-$_['text_success']          = 'Success: You have modified recurring profiles!';
-$_['text_list']             = 'Recurring Profile List';
-$_['text_add']              = 'Add Recurring Profile';
-$_['text_edit']             = 'Edit Recurring Profile';
-$_['text_day']              = 'Day';
-$_['text_week']             = 'Week';
-$_['text_semi_month']       = 'Semi Month';
-$_['text_month']            = 'Month';
-$_['text_year']             = 'Year';
-$_['text_recurring']        = '<p><i class="fa fa-info-circle"></i> Recurring amounts are calculated by the frequency and cycles.</p><p>For example if you use a frequency of "week" and a cycle of "2", then the user will be billed every 2 weeks.</p><p>The duration is the number of times the user will make a payment, set this to 0 if you want payments until they are cancelled.</p>';
-$_['text_profile']          = 'Recurring Profile';
-$_['text_trial']            = 'Trial Profile';
-
-// Entry
-$_['entry_name']            = 'Name';
-$_['entry_price']           = 'Price';
-$_['entry_duration']        = 'Duration';
-$_['entry_cycle']           = 'Cycle';
-$_['entry_frequency']       = 'Frequency';
-$_['entry_trial_price']     = 'Trial price';
-$_['entry_trial_duration']  = 'Trial duration';
-$_['entry_trial_status']    = 'Trial status';
-$_['entry_trial_cycle']     = 'Trial cycle';
-$_['entry_trial_frequency'] = 'Trial frequency';
-$_['entry_status']          = 'Status';
-$_['entry_sort_order']      = 'Sort Order';
-
-// Column
-$_['column_name']           = 'Name';
-$_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
-
-// Error
-$_['error_warning']         = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']      = 'Warning: You do not have permission to modify recurring profiles!';
-$_['error_name']            = 'Profile Name must be greater than 3 and less than 255 characters!';
-$_['error_product']         = 'Warning: This recurring profile cannot be deleted as it is currently assigned to %s products!';
+$_['heading_title'] 	=  'Perfiles recurrentes';
+$_['text_success'] 	=  'Éxito: ¡Has modificado perfiles recurrentes!';
+$_['text_list'] 	=  'Lista de perfiles recurrentes';
+$_['text_add'] 	=  'Añadir perfil recurrente';
+$_['text_edit'] 	=  'Editar perfil recurrente';
+$_['text_day'] 	=  'Día';
+$_['text_week'] 	=  'Semana';
+$_['text_semi_month'] 	=  'Semestral';
+$_['text_month'] 	=  'Mes';
+$_['text_year'] 	=  'Año';
+$_['text_recurring'] 	=  '</p> <p> Por ejemplo, si utiliza una frecuencia de \"semana\" y un valor de Ciclo de \"2\", entonces el usuario se facturará cada 2 semanas. </p> <p> La duración es el número de veces que el usuario realizará un pago, establezca esto en 0 si desea pagos hasta que se cancelen. </p>';
+$_['text_profile'] 	=  'Perfil recurrente';
+$_['text_trial'] 	=  'Perfil de prueba';
+$_['entry_name'] 	=  'Nombre';
+$_['entry_price'] 	=  'Precio';
+$_['entry_duration'] 	=  'Duración';
+$_['entry_cycle'] 	=  'Ciclo';
+$_['entry_frequency'] 	=  'Frecuencia';
+$_['entry_trial_price'] 	=  'Precio de prueba';
+$_['entry_trial_duration'] 	=  'Duración del ensayo';
+$_['entry_trial_status'] 	=  'Estado de la prueba';
+$_['entry_trial_cycle'] 	=  'Ciclo de ensayo';
+$_['entry_trial_frequency'] 	=  'Frecuencia de prueba';
+$_['entry_status'] 	=  'Estado';
+$_['entry_sort_order'] 	=  'Orden de Clasificación';
+$_['column_name'] 	=  'Nombre';
+$_['column_sort_order'] 	=  'Orden de Clasificación';
+$_['column_action'] 	=  'Acción';
+$_['error_warning'] 	=  'Advertencia: Por favor, revise el formulario cuidadosamente para ver si hay errores.';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar perfiles recurrentes!';
+$_['error_name'] 	=  'El nombre del perfil debe ser mayor de 3 y menos de 255 caracteres.';
+$_['error_product'] 	=  'Advertencia: este perfil recurrente no se puede eliminar ya que está asignado actualmente a %s products!';

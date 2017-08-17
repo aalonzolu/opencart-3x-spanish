@@ -1,46 +1,35 @@
 <?php
-// Heading
-$_['heading_title']          = 'Information';
-
-// Text
-$_['text_success']           = 'Success: You have modified information!';
-$_['text_list']              = 'Information List';
-$_['text_add']               = 'Add Information';
-$_['text_edit']              = 'Edit Information';
-$_['text_default']           = 'Default';
-$_['text_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';
-
-// Column
-$_['column_title']           = 'Information Title';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
-
-// Entry
-$_['entry_title']            = 'Information Title';
-$_['entry_description']      = 'Description';
-$_['entry_meta_title']       = 'Meta Tag Title';
-$_['entry_meta_keyword']     = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_store']            = 'Stores';
-$_['entry_keyword']          = 'Keyword';
-$_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
-
-// Help
-$_['help_bottom']            = 'Display in the bottom footer.';
-
-// Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify information!';
-$_['error_title']            = 'Information Title must be between 1 and 64 characters!';
-$_['error_description']      = 'Description must be more than 3 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 1 and less than 255 characters!';
-$_['error_keyword']          = 'SEO URL already in use!';
-$_['error_unique']           = 'SEO URL must be unique!';
-$_['error_account']          = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']         = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']        = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_return']           = 'Warning: This information page cannot be deleted as it is currently assigned as the store return terms!';
-$_['error_store']            = 'Warning: This information page cannot be deleted as it is currently used by %s stores!';
+$_['heading_title'] 	=  'Información';
+$_['text_success'] 	=  'Éxito: ¡Usted ha modificado la información!';
+$_['text_list'] 	=  'Lista de información';
+$_['text_add'] 	=  'Añadir información';
+$_['text_edit'] 	=  'editar informacion';
+$_['text_default'] 	=  'Defecto';
+$_['text_keyword'] 	=  'No utilice espacios, reemplace los espacios con - y asegúrese de que la URL de SEO sea globalmente única.';
+$_['column_title'] 	=  'Información Título';
+$_['column_sort_order'] 	=  'Orden de Clasificación';
+$_['column_action'] 	=  'Acción';
+$_['entry_title'] 	=  'Información Título';
+$_['entry_description'] 	=  'Descripción';
+$_['entry_meta_title'] 	=  'Meta Tag Título';
+$_['entry_meta_keyword'] 	=  'Meta Tag Palabras clave';
+$_['entry_meta_description'] 	=  'Meta Tag Descripción';
+$_['entry_store'] 	=  'Tiendas';
+$_['entry_keyword'] 	=  'Palabra clave';
+$_['entry_bottom'] 	=  'Fondo';
+$_['entry_status'] 	=  'Estado';
+$_['entry_sort_order'] 	=  'Orden de Clasificación';
+$_['entry_layout'] 	=  'Anulación de diseño';
+$_['help_bottom'] 	=  'Mostrar en el pie inferior.';
+$_['error_warning'] 	=  'Advertencia: Por favor, revise el formulario cuidadosamente para ver si hay errores.';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar la información!';
+$_['error_title'] 	=  'Información El título debe tener entre 1 y 64 caracteres.';
+$_['error_description'] 	=  '¡La descripción debe tener más de 3 caracteres!';
+$_['error_meta_title'] 	=  'Meta título debe ser mayor de 1 y menos de 255 caracteres!';
+$_['error_keyword'] 	=  'SEO URL ya está en uso!';
+$_['error_unique'] 	=  'URL de SEO debe ser único!';
+$_['error_account'] 	=  'Advertencia: Esta página de información no se puede eliminar ya que está asignada actualmente como los términos de la cuenta de tienda.';
+$_['error_checkout'] 	=  'Advertencia: Esta página de información no se puede eliminar ya que está asignada actualmente como los términos de pago de la tienda.';
+$_['error_affiliate'] 	=  'Advertencia: Esta página de información no puede eliminarse, ya que actualmente está asignada como los términos del afiliado de la tienda.';
+$_['error_return'] 	=  'Advertencia: Esta página de información no se puede eliminar, ya que está asignada como los términos de devolución de la tienda.';
+$_['error_store'] 	=  'Advertencia: Esta página de información no puede ser eliminada, ya que es utilizada por %s tiendas!';

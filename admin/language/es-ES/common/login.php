@@ -1,19 +1,10 @@
 <?php
-// Heading
-$_['heading_title']  = 'Administration';
-
-// Text
-$_['text_heading']   = 'Administration';
-$_['text_login']     = 'Please enter your login details.';
-$_['text_forgotten'] = 'Forgotten Password';
-
-// Entry
-$_['entry_username'] = 'Username';
-$_['entry_password'] = 'Password';
-
-// Button
-$_['button_login']   = 'Login';
-
-// Error
-$_['error_login']    = 'No match for Username and/or Password.';
-$_['error_token']    = 'Invalid token session. Please login again.';
+$_['heading_title'] 	=  'Administración';
+$_['text_heading'] 	=  'Administración';
+$_['text_login'] 	=  'Introduce tus datos de acceso.';
+$_['text_forgotten'] 	=  'Contraseña olvidada';
+$_['entry_username'] 	=  'Nombre de usuario';
+$_['entry_password'] 	=  'Contraseña';
+$_['button_login'] 	=  'Iniciar sesión';
+$_['error_login'] 	=  'No hay coincidencia con nombre de usuario y / o contraseña.';
+$_['error_token'] 	=  'Sesión de símbolo no válida. Inicie sesión nuevamente.';

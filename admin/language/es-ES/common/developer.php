@@ -1,25 +1,14 @@
 <?php
-// Heading
-$_['heading_title']    = 'Developer Settings';
-
-// Text
-$_['text_success']     = 'Success: You have modified developer settings!';
-$_['text_theme']       = 'theme';
-$_['text_sass']        = 'SASS';
-$_['text_cache']       = 'Success: You have cleared the %s cache!';
-
-// Column
-$_['column_component'] = 'Component';
-$_['column_action']    = 'Action';
-
-// Entry
-$_['entry_theme']      = 'Theme';
-$_['entry_sass']       = 'SASS';
-$_['entry_cache']      = 'Cache';
-
-// Button
-$_['button_on']        = 'On';
-$_['button_off']       = 'Off';
-
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify developer settings!';
+$_['heading_title'] 	=  'Configuración del desarrollador';
+$_['text_success'] 	=  'Éxito: ¡Ha modificado la configuración del desarrollador!';
+$_['text_theme'] 	=  'tema';
+$_['text_sass'] 	=  'HABLAR CON DESCARO A';
+$_['text_cache'] 	=  'Éxito: ¡Has eliminado la caché %s!';
+$_['column_component'] 	=  'Componente';
+$_['column_action'] 	=  'Acción';
+$_['entry_theme'] 	=  'Tema';
+$_['entry_sass'] 	=  'HABLAR CON DESCARO A';
+$_['entry_cache'] 	=  'Cache';
+$_['button_on'] 	=  'En';
+$_['button_off'] 	=  'Apagado';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar la configuración del programador!';

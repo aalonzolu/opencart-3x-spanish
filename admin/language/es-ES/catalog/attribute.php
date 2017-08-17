@@ -1,26 +1,17 @@
 <?php
-// Heading
-$_['heading_title']          = 'Attributes';
-
-// Text
-$_['text_success']           = 'Success: You have modified attributes!';
-$_['text_list']              = 'Attribute List';
-$_['text_add']               = 'Add Attribute';
-$_['text_edit']              = 'Edit Attribute';
-
-// Column
-$_['column_name']            = 'Attribute Name';
-$_['column_attribute_group'] = 'Attribute Group';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
-
-// Entry
-$_['entry_name']             = 'Attribute Name';
-$_['entry_attribute_group']  = 'Attribute Group';
-$_['entry_sort_order']       = 'Sort Order';
-
-// Error
-$_['error_permission']       = 'Warning: You do not have permission to modify attributes!';
-$_['error_attribute_group']  = 'Attribute Group Required!';
-$_['error_name']             = 'Attribute Name must be between 1 and 64 characters!';
-$_['error_product']          = 'Warning: This attribute cannot be deleted as it is currently assigned to %s products!';
+$_['heading_title'] 	=  'Atributos';
+$_['text_success'] 	=  'Éxito: ¡Has modificado atributos!';
+$_['text_list'] 	=  'Lista de atributos';
+$_['text_add'] 	=  'Añadir atributo';
+$_['text_edit'] 	=  'Editar el atributo';
+$_['column_name'] 	=  'Nombre del Atributo';
+$_['column_attribute_group'] 	=  'Grupo de atributos';
+$_['column_sort_order'] 	=  'Orden de Clasificación';
+$_['column_action'] 	=  'Acción';
+$_['entry_name'] 	=  'Nombre del Atributo';
+$_['entry_attribute_group'] 	=  'Grupo de atributos';
+$_['entry_sort_order'] 	=  'Orden de Clasificación';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar atributos!';
+$_['error_attribute_group'] 	=  '¡Se requiere el grupo de atributos!';
+$_['error_name'] 	=  'El nombre del atributo debe tener entre 1 y 64 caracteres.';
+$_['error_product'] 	=  'Advertencia: ¡Este atributo no se puede eliminar ya que está asignado actualmente a %s products!';

@@ -1,36 +1,25 @@
 <?php
-// Heading
-$_['heading_title']     = 'Reviews';
-
-// Text
-$_['text_success']      = 'Success: You have modified reviews!';
-$_['text_list']         = 'Review List';
-$_['text_add']          = 'Add Review';
-$_['text_edit']         = 'Edit Review';
-$_['text_filter']       = 'Filter';
-
-// Column
-$_['column_product']    = 'Product';
-$_['column_author']     = 'Author';
-$_['column_rating']     = 'Rating';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
-
-// Entry
-$_['entry_product']     = 'Product';
-$_['entry_author']      = 'Author';
-$_['entry_rating']      = 'Rating';
-$_['entry_status']      = 'Status';
-$_['entry_text']        = 'Text';
-$_['entry_date_added']  = 'Date Added';
-
-// Help
-$_['help_product']      = '(Autocomplete)';
-
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify reviews!';
-$_['error_product']     = 'Product required!';
-$_['error_author']      = 'Author must be between 3 and 64 characters!';
-$_['error_text']        = 'Review Text must be at least 1 character!';
-$_['error_rating']      = 'Review rating required!';
+$_['heading_title'] 	=  'Comentarios';
+$_['text_success'] 	=  'Éxito: ¡Has modificado las reseñas!';
+$_['text_list'] 	=  'Lista de revisión';
+$_['text_add'] 	=  'Agregar una opinión';
+$_['text_edit'] 	=  'Editar revisión';
+$_['text_filter'] 	=  'Filtrar';
+$_['column_product'] 	=  'Producto';
+$_['column_author'] 	=  'Autor';
+$_['column_rating'] 	=  'Clasificación';
+$_['column_status'] 	=  'Estado';
+$_['column_date_added'] 	=  'Fecha Agregada';
+$_['column_action'] 	=  'Acción';
+$_['entry_product'] 	=  'Producto';
+$_['entry_author'] 	=  'Autor';
+$_['entry_rating'] 	=  'Clasificación';
+$_['entry_status'] 	=  'Estado';
+$_['entry_text'] 	=  'Texto';
+$_['entry_date_added'] 	=  'Fecha Agregada';
+$_['help_product'] 	=  '(Autocompletar)';
+$_['error_permission'] 	=  'Advertencia: ¡No tienes permiso para modificar comentarios!';
+$_['error_product'] 	=  'Producto requerido!';
+$_['error_author'] 	=  'El autor debe tener entre 3 y 64 caracteres.';
+$_['error_text'] 	=  '¡El texto de la revisión debe tener por lo menos 1 carácter!';
+$_['error_rating'] 	=  'Revisión crítica requerida!';

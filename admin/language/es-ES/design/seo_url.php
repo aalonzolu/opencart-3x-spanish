@@ -1,30 +1,21 @@
 <?php
-// Heading
-$_['heading_title']    = 'SEO URL';
-
-// Text
-$_['text_success']     = 'Success: You have modified SEO URL!';
-$_['text_list']        = 'SEO URL List';
-$_['text_add']         = 'Add SEO URL';
-$_['text_edit']        = 'Edit SEO URL';
-$_['text_filter']      = 'Filter';
-$_['text_default']     = 'Default';
-
-// Column
-$_['column_query']     = 'Query';
-$_['column_keyword']   = 'Keyword';
-$_['column_store']     = 'Store';
-$_['column_language']  = 'Language';
-$_['column_action']    = 'Action';
-
-// Entry
-$_['entry_query']      = 'Query';
-$_['entry_keyword']    = 'Keyword';
-$_['entry_store']      = 'Store';
-$_['entry_language']   = 'Language';
-
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify SEO URL!';
-$_['error_query']      = 'Query must be between 3 and 64 characters!';
-$_['error_keyword']    = 'Keyword must be between 3 and 64 characters!';
-$_['error_exists']     = 'Keyword already in use!';
+$_['heading_title'] 	=  'URL de SEO';
+$_['text_success'] 	=  'Éxito: ¡Has modificado la URL de SEO!';
+$_['text_list'] 	=  'Lista de URL de SEO';
+$_['text_add'] 	=  'Agregar URL de SEO';
+$_['text_edit'] 	=  'Editar URL de SEO';
+$_['text_filter'] 	=  'Filtrar';
+$_['text_default'] 	=  'Defecto';
+$_['column_query'] 	=  'Consulta';
+$_['column_keyword'] 	=  'Palabra clave';
+$_['column_store'] 	=  'Almacenar';
+$_['column_language'] 	=  'Idioma';
+$_['column_action'] 	=  'Acción';
+$_['entry_query'] 	=  'Consulta';
+$_['entry_keyword'] 	=  'Palabra clave';
+$_['entry_store'] 	=  'Almacenar';
+$_['entry_language'] 	=  'Idioma';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar la URL de SEO!';
+$_['error_query'] 	=  '¡La consulta debe tener entre 3 y 64 caracteres!';
+$_['error_keyword'] 	=  '¡La palabra clave debe tener entre 3 y 64 caracteres!';
+$_['error_exists'] 	=  'Palabra clave ya está en uso!';

@@ -1,9 +1,6 @@
 <?php
-// Heading
-$_['heading_title'] = 'Reports';
-
-// Text
-$_['text_success']  = 'Success: You have modified reports!';
-$_['text_list']     = 'Report List';
-$_['text_type']     = 'Choose the report type';
-$_['text_filter']   = 'Filter';
+$_['heading_title'] 	=  'Informes';
+$_['text_success'] 	=  'Éxito: ¡Usted ha modificado los informes!';
+$_['text_list'] 	=  'Lista de informes';
+$_['text_type'] 	=  'Elija el tipo de informe';
+$_['text_filter'] 	=  'Filtrar';

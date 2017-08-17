@@ -1,12 +1,9 @@
 <?php
-// Heading
-$_['heading_title']      = 'OpenCart';
-
-// Text
-$_['text_profile']       = 'Your Profile';
-$_['text_store']         = 'Stores';
-$_['text_help']          = 'Help';
-$_['text_homepage']      = 'OpenCart Homepage';
-$_['text_support']       = 'Support Forum';
-$_['text_documentation'] = 'Documentation';
-$_['text_logout']        = 'Logout';
+$_['heading_title'] 	=  'OpenCart';
+$_['text_profile'] 	=  'Tu perfil';
+$_['text_store'] 	=  'Tiendas';
+$_['text_help'] 	=  'Ayuda';
+$_['text_homepage'] 	=  'Página de OpenCart';
+$_['text_support'] 	=  'Foro de soporte';
+$_['text_documentation'] 	=  'Documentación';
+$_['text_logout'] 	=  'Cerrar sesión';

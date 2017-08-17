@@ -1,41 +1,32 @@
 <?php
-// Heading
-$_['heading_title']      = 'Options';
-
-// Text
-$_['text_success']       = 'Success: You have modified options!';
-$_['text_list']          = 'Option List';
-$_['text_add']           = 'Add Option';
-$_['text_edit']          = 'Edit Option';
-$_['text_choose']        = 'Choose';
-$_['text_select']        = 'Select';
-$_['text_radio']         = 'Radio';
-$_['text_checkbox']      = 'Checkbox';
-$_['text_input']         = 'Input';
-$_['text_text']          = 'Text';
-$_['text_textarea']      = 'Textarea';
-$_['text_file']          = 'File';
-$_['text_date']          = 'Date';
-$_['text_datetime']      = 'Date &amp; Time';
-$_['text_time']          = 'Time';
-$_['text_option']        = 'Option';
-$_['text_value']         = 'Option Values';
-
-// Column
-$_['column_name']        = 'Option Name';
-$_['column_sort_order']  = 'Sort Order';
-$_['column_action']      = 'Action';
-
-// Entry
-$_['entry_name']         = 'Option Name';
-$_['entry_type']         = 'Type';
-$_['entry_option_value'] = 'Option Value Name';
-$_['entry_image']        = 'Image';
-$_['entry_sort_order']   = 'Sort Order';
-
-// Error
-$_['error_permission']   = 'Warning: You do not have permission to modify options!';
-$_['error_name']         = 'Option Name must be between 1 and 128 characters!';
-$_['error_type']         = 'Warning: Option Values required!';
-$_['error_option_value'] = 'Option Value Name must be between 1 and 128 characters!';
-$_['error_product']      = 'Warning: This option cannot be deleted as it is currently assigned to %s products!';
+$_['heading_title'] 	=  'Opciones';
+$_['text_success'] 	=  'Éxito: ¡Has modificado las opciones!';
+$_['text_list'] 	=  'Lista de opciones';
+$_['text_add'] 	=  'Agregar opción';
+$_['text_edit'] 	=  'Editar Opción';
+$_['text_choose'] 	=  'Escoger';
+$_['text_select'] 	=  'Seleccionar';
+$_['text_radio'] 	=  'Radio';
+$_['text_checkbox'] 	=  'Caja';
+$_['text_input'] 	=  'Entrada';
+$_['text_text'] 	=  'Texto';
+$_['text_textarea'] 	=  'Área de texto';
+$_['text_file'] 	=  'Archivo';
+$_['text_date'] 	=  'Fecha';
+$_['text_datetime'] 	=  'Fecha & amp; Hora';
+$_['text_time'] 	=  'Hora';
+$_['text_option'] 	=  'Opción';
+$_['text_value'] 	=  'Valores de opción';
+$_['column_name'] 	=  'Nombre de la opción';
+$_['column_sort_order'] 	=  'Orden de Clasificación';
+$_['column_action'] 	=  'Acción';
+$_['entry_name'] 	=  'Nombre de la opción';
+$_['entry_type'] 	=  'Tipo';
+$_['entry_option_value'] 	=  'Opción Nombre del valor';
+$_['entry_image'] 	=  'Imagen';
+$_['entry_sort_order'] 	=  'Orden de Clasificación';
+$_['error_permission'] 	=  'Advertencia: ¡No tienes permiso para modificar las opciones!';
+$_['error_name'] 	=  'El nombre de la opción debe estar entre 1 y 128 caracteres!';
+$_['error_type'] 	=  'Advertencia: Opción Valores requeridos!';
+$_['error_option_value'] 	=  'Opción Valor El nombre debe tener entre 1 y 128 caracteres.';
+$_['error_product'] 	=  'Advertencia: ¡Esta opción no se puede eliminar ya que está asignada actualmente a %s products!';

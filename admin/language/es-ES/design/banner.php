@@ -1,28 +1,19 @@
 <?php
-// Heading
-$_['heading_title']     = 'Banners';
-
-// Text
-$_['text_success']      = 'Success: You have modified banners!';
-$_['text_list']         = 'Banner List';
-$_['text_add']          = 'Add Banner';
-$_['text_edit']         = 'Edit Banner';
-$_['text_default']      = 'Default';
-
-// Column
-$_['column_name']       = 'Banner Name';
-$_['column_status']     = 'Status';
-$_['column_action']     = 'Action';
-
-// Entry
-$_['entry_name']        = 'Banner Name';
-$_['entry_title']       = 'Title';
-$_['entry_link']        = 'Link';
-$_['entry_image']       = 'Image';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
-
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify banners!';
-$_['error_name']       = 'Banner Name must be between 3 and 64 characters!';
-$_['error_title']      = 'Banner Title must be between 2 and 64 characters!';
+$_['heading_title'] 	=  'Banners';
+$_['text_success'] 	=  'Éxito: ¡Has modificado banners!';
+$_['text_list'] 	=  'Lista de banners';
+$_['text_add'] 	=  'Añadir Banner';
+$_['text_edit'] 	=  'Editar Banner';
+$_['text_default'] 	=  'Defecto';
+$_['column_name'] 	=  'Nombre de la bandera';
+$_['column_status'] 	=  'Estado';
+$_['column_action'] 	=  'Acción';
+$_['entry_name'] 	=  'Nombre de la bandera';
+$_['entry_title'] 	=  'Título';
+$_['entry_link'] 	=  'Enlazar';
+$_['entry_image'] 	=  'Imagen';
+$_['entry_status'] 	=  'Estado';
+$_['entry_sort_order'] 	=  'Orden de Clasificación';
+$_['error_permission'] 	=  'Advertencia: ¡No tienes permiso para modificar banners!';
+$_['error_name'] 	=  'El nombre de la bandera debe tener entre 3 y 64 caracteres.';
+$_['error_title'] 	=  'Banner El título debe tener entre 2 y 64 caracteres.';

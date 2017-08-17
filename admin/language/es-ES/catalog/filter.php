@@ -1,26 +1,17 @@
 <?php
-// Heading
-$_['heading_title']     = 'Filters';
-
-// Text
-$_['text_success']      = 'Success: You have modified filters!';
-$_['text_list']         = 'Filter List';
-$_['text_add']          = 'Add Filter';
-$_['text_edit']         = 'Edit Filter';
-$_['text_group']        = 'Filter Group';
-$_['text_value']        = 'Filter Values';
-
-// Column
-$_['column_group']      = 'Filter Group';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
-
-// Entry
-$_['entry_group']       = 'Filter Group Name';
-$_['entry_name']        = 'Filter Name';
-$_['entry_sort_order']  = 'Sort Order';
-
-// Error
-$_['error_permission']  = 'Warning: You do not have permission to modify filters!';
-$_['error_group']       = 'Filter Group Name must be between 1 and 64 characters!';
-$_['error_name']        = 'Filter Name must be between 1 and 64 characters!';
+$_['heading_title'] 	=  'Filtros';
+$_['text_success'] 	=  'Éxito: ¡Tienes filtros modificados!';
+$_['text_list'] 	=  'Lista de filtros';
+$_['text_add'] 	=  'Añadir filtro';
+$_['text_edit'] 	=  'Editar filtro';
+$_['text_group'] 	=  'Grupo de filtros';
+$_['text_value'] 	=  'Valores de filtro';
+$_['column_group'] 	=  'Grupo de filtros';
+$_['column_sort_order'] 	=  'Orden de Clasificación';
+$_['column_action'] 	=  'Acción';
+$_['entry_group'] 	=  'Nombre del grupo de filtros';
+$_['entry_name'] 	=  'Nombre del filtro';
+$_['entry_sort_order'] 	=  'Orden de Clasificación';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar los filtros!';
+$_['error_group'] 	=  '¡El nombre del grupo de filtros debe tener entre 1 y 64 caracteres!';
+$_['error_name'] 	=  'El nombre del filtro debe tener entre 1 y 64 caracteres.';

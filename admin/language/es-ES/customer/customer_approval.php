@@ -1,28 +1,19 @@
 <?php
-// Heading
-$_['heading_title']         = 'Customer Approvals';
-
-// Text
-$_['text_success']          = 'Success: You have modified customer approvals!';
-$_['text_list']             = 'Customer Approval List';
-$_['text_default']          = 'Default';
-$_['text_customer']         = 'Customer';
-$_['text_affiliate']        = 'Affiliate';
-
-// Column
-$_['column_name']           = 'Customer Name';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
-$_['column_type']           = 'Type';
-$_['column_date_added']     = 'Date Added';
-$_['column_action']         = 'Action';
-
-// Entry
-$_['entry_name']            = 'Customer Name';
-$_['entry_email']           = 'E-Mail';
-$_['entry_customer_group']  = 'Customer Group';
-$_['entry_type']            = 'Type';
-$_['entry_date_added']      = 'Date Added';
-
-// Error
-$_['error_permission']      = 'Warning: You do not have permission to modify customer approvals!';
+$_['heading_title'] 	=  'Aprobaciones del cliente';
+$_['text_success'] 	=  'Éxito: ¡Ha modificado las aprobaciones de clientes!';
+$_['text_list'] 	=  'Lista de aprobación del cliente';
+$_['text_default'] 	=  'Defecto';
+$_['text_customer'] 	=  'Cliente';
+$_['text_affiliate'] 	=  'Afiliado';
+$_['column_name'] 	=  'Nombre del cliente';
+$_['column_email'] 	=  'Correo electrónico';
+$_['column_customer_group'] 	=  'grupo de clientes';
+$_['column_type'] 	=  'Tipo';
+$_['column_date_added'] 	=  'Fecha Agregada';
+$_['column_action'] 	=  'Acción';
+$_['entry_name'] 	=  'Nombre del cliente';
+$_['entry_email'] 	=  'Correo electrónico';
+$_['entry_customer_group'] 	=  'grupo de clientes';
+$_['entry_type'] 	=  'Tipo';
+$_['entry_date_added'] 	=  'Fecha Agregada';
+$_['error_permission'] 	=  'Advertencia: ¡No tiene permiso para modificar las aprobaciones de clientes!';
