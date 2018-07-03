@@ -1,19 +1,19 @@
 <?php
 // Heading
-$_['heading_title']    = 'Backup &amp; Restore';
+$_['heading_title']    = 'Respaldar y Restaurar';
 
 // Text
-$_['text_success']     = 'Success: You have successfully imported your database!';
+$_['text_success']     = 'Éxito: ¡Usted ha importado exitósamente la base de datos!';
 
 // Entry
-$_['entry_progress']   = 'Progress';
-$_['entry_export']     = 'Export';
+$_['entry_progress']   = 'Progreso';
+$_['entry_export']     = 'Exportar';
 
 // Tab
-$_['tab_backup']       = 'Backup';
-$_['tab_restore']      = 'Restore';
+$_['tab_backup']       = 'Respaldar';
+$_['tab_restore']      = 'Restaurar';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Backup &amp; Restore!';
-$_['error_export']     = 'Warning: You must select at least one table to export!';
-$_['error_file']       = 'File could not be found!';
+$_['error_permission'] = 'Advertencia: ¡No tiene permiso para modificar el Respaldo ni Restaurar!';
+$_['error_export']     = 'Advertencia: ¡Debe seleccionar al menos una tabla para exportar!';
+$_['error_file']       = '¡El archivo no se encontró!';
