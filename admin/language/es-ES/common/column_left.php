@@ -2,9 +2,9 @@
 $_['text_api'] 	=  'API';
 $_['text_attribute'] 	=  'Atributos';
 $_['text_attribute_group'] 	=  'Grupos de atributos';
-$_['text_backup'] 	=  'Copia de seguridad de restauracion';
+$_['text_backup'] 	=  'Copia de seguridad y restauración';
 $_['text_banner'] 	=  'Banners';
-$_['text_catalog'] 	=  'Catalogar';
+$_['text_catalog'] 	=  'Catálogo';
 $_['text_category'] 	=  'Categorías';
 $_['text_country'] 	=  'Países';
 $_['text_coupon'] 	=  'Cupones';
